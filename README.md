@@ -1,2 +1,2 @@
 # CognoRise-Infotech
-Internship Offered Projects and its design case stuies 
+Internship Offered Projects and its design 
